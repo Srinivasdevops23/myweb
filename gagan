@@ -4,5 +4,6 @@ devops
 linux
 
 
-
-
+docker
+kubernette
+ansible
